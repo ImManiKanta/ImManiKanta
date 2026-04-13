@@ -49,6 +49,12 @@ I'm a passionate **DevOps Engineer** with over **3.10+ years of experience** in 
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ImManiKanta&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ImManiKanta&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ImManiKanta&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
