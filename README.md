@@ -1,20 +1,5 @@
 <h2 align="left">👋 Hi I' m Manikanta Chintha</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/manikanta-chintha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/immanikanta/immanikanta/output/snake.svg" alt="Snake animation" />
-
-###
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manikanta-chintha) 
 
