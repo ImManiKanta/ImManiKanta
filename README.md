@@ -17,7 +17,7 @@ I'm a passionate **DevOps Engineer (SRE)** with over **3.10+ years of experience
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/immanikanta/immanikanta/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/immanikanta/output/snake.svg" alt="Snake animation" />
 
 ---
 
