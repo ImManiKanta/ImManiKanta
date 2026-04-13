@@ -52,7 +52,7 @@ I'm a passionate **DevOps Engineer** with over **3.10+ years of experience** in 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/ImManiKanta/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ImManiKanta/snake-/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
