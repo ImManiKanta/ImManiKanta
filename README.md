@@ -63,6 +63,10 @@ I'm a passionate **DevOps Engineer** with over **3.10+ years of experience** in 
 
 ---
 
-Thanks for visiting!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojmantha&label=Profile%20Views&color=0e75b6&style=flat" alt="manojmantha" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+Thanks for visiting!
