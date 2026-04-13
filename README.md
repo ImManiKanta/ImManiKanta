@@ -1,5 +1,11 @@
 <h2 align="left">👋 Hi I' m Manikanta Chintha</h2>
 
+---
+
+I'm a passionate **DevOps Engineer (SRE)** with over **3.10+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD and deploy microservices based applications on k8s at scale, and ensuring reliability in AWS cloud environment.
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manikanta-chintha) 
 
