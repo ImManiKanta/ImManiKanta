@@ -4,15 +4,15 @@
 
 <h2 align="left">👋 Hi I' m Manikanta Chintha</h2>
 
-### Software Engineer II – SRE @ JPMorgan Chase  
+### DevOps Engineer @ Cognizant  
 🚀 DevOps Engineer • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/manikanta-chintha/)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:chinthamanikanta1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-chinthamanikanta1@gmail.com-red?logo=gmail&style=flat)](mailto:chinthamanikanta1@gmail.com)
 
 ---
 
-I'm a passionate **DevOps Engineer (SRE)** with over **3.10+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD and deploy microservices based applications on k8s at scale, and ensuring reliability in AWS cloud environment.
+I'm a passionate **DevOps Engineer** with over **3.10+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD and deploy microservices based applications on k8s at scale, and ensuring reliability in AWS cloud environment.
 
 ---
 
