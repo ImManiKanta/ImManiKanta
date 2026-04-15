@@ -12,7 +12,7 @@
 
 ---
 
-I'm a passionate **DevOps Engineer** with over **3.10+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD and deploy microservices based applications on k8s at scale, and ensuring reliability in AWS cloud environment.
+I'm a passionate **DevOps Engineer** with over **3.2+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD and deploy microservices based applications on k8s at scale, and ensuring reliability in AWS cloud environment.
 
 ---
 
