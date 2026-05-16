@@ -12,7 +12,7 @@
 
 ---
 
-I'm a passionate **DevOps Engineer** with over **3.2+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD and deploy microservices based applications on k8s at scale, and ensuring reliability in AWS cloud environment.
+DevOps Engineer with 3.8 years of total IT experience, including 3.2+ years of hands-on expertise in AWS cloud infrastructure, CI/CD automation, and cloud operations. Good experience in Kubernetes, Helm, Terraform, Docker, Jenkins, GitHub Actions, Linux and shell scripting. Experienced in managing large-scale production environments, collaborating with senior leadership and cross-functional stakeholders to drive reliable, scalable infrastructure
 
 ---
 
@@ -24,10 +24,10 @@ I'm a passionate **DevOps Engineer** with over **3.2+ years of experience** in b
 - **SCM**: GitHub, Bitbucket  
 - **IaC**: Terraform
 - **Containers**: Docker, Kubernetes 
-- **Security & Scanning**: SonarQube
+- **Security & Scanning**: SonarQube, Trivy
 - **Arifactory**: Nexus
-- **Scripting**: Bash, Shell 
-- **Monitoring**: Prometheus, Grafana, CloudWatch
+- **Scripting**: Shell 
+- **Monitoring**: Prometheus, Grafana
 
 ---
 
@@ -62,5 +62,4 @@ I'm a passionate **DevOps Engineer** with over **3.2+ years of experience** in b
 </div>
 
 ---
-
 Thanks for visiting!
