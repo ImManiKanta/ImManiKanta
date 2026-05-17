@@ -12,7 +12,7 @@
 
 ---
 
-DevOps Engineer with 3.8 years of total IT experience, including 3.2+ years of hands-on expertise in AWS cloud infrastructure, CI/CD automation, and cloud operations. Good experience in Kubernetes, Helm, Terraform, Docker, Jenkins, GitHub Actions, Linux and shell scripting. Experienced in managing large-scale production environments, collaborating with senior leadership and cross-functional stakeholders to drive reliable, scalable infrastructure
+DevOps Engineer with 3.8 years of total IT experience, including 3.2+ years of experience in AWS cloud infrastructure, CI/CD automation, and cloud operations. Strong hands-on expertise in Amazon EKS, Helm, Terraform, Docker, Jenkins, GitHub Actions, Linux and shell scripting. Experienced in managing large-scale production environments, collaborating with senior leadership and cross-functional stakeholders to drive reliable, scalable infrastructure.
 
 ---
 
