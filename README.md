@@ -20,13 +20,13 @@ DevOps Engineer with 3.8 years of experience in AWS cloud infrastructure, CI/CD 
 
 - **Cloud**: AWS 
 - **OS**: Linux
-- **CI/CD**: GitHub Actions, Jenkins
-- **SCM**: GitHub, Bitbucket  
+- **CI/CD**: Jenkins
+- **SCM**: GitHub, Bitbucket, Git
 - **IaC**: Terraform
 - **Containers**: Docker, Kubernetes, Helm 
 - **Security & Scanning**: SonarQube, Trivy
 - **Arifactory**: Nexus
-- **Scripting**: Shell, Bash
+- **Scripting**: Shell, Bash, Python
 - **Monitoring**: Prometheus, Grafana
 
 ---
